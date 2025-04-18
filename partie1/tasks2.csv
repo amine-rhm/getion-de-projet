@@ -1,0 +1,14 @@
+tache,duree,anteriorites
+A,3,
+B,7,A
+C,10,B
+D,8,C
+E,5,C
+F,6,C
+G,4,D
+H,7,E,F
+I,3,D
+J,4,F,G
+K,5,H,J
+L,8,H,I
+M,6,I
